@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Login — Demo Educacional</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="card">
+    <h1>Demo: Página de Login (Educação)</h1>
+    <p class="lead">Esta é uma simulação segura — <strong>não armazena</strong> senhas. Use localmente apenas.</p>
+
+    <form id="loginForm" autocomplete="off">
+      <label for="email">E-mail</label>
+      <input id="email" name="email" type="email" placeholder="usuario@exemplo.com" required />
+
+      <label for="password">Senha</label>
+      <input id="password" name="password" type="password" placeholder="********" required />
+
+      <button type="submit">Entrar</button>
+    </form>
+
+    <div id="result" class="result" hidden></div>
+
+    <footer>
+      <small>Projeto educacional — não execute contra pessoas reais.</small>
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
