@@ -1,0 +1,10 @@
+:root{font-family:Inter,system-ui,Segoe UI,Roboto,"Helvetica Neue",Arial;}
+body{display:flex;min-height:100vh;align-items:center;justify-content:center;background:#f3f6fb;margin:0}
+.card{width:360px;padding:22px;background:white;border-radius:12px;box-shadow:0 6px 22px rgba(13,38,59,.08);text-align:left}
+h1{margin:0 0 8px;font-size:18px}
+.lead{margin:0 0 16px;color:#475569;font-size:13px}
+label{display:block;font-size:12px;margin:8px 0 4px;color:#334155}
+input{width:100%;padding:10px;border-radius:8px;border:1px solid #e2e8f0;font-size:14px}
+button{width:100%;margin-top:14px;padding:10px;border-radius:8px;border:0;background:#0ea5a2;color:white;font-weight:600}
+.result{margin-top:14px;padding:12px;border-radius:8px;background:#f8fafc;border:1px solid #e2e8f0;font-size:13px}
+footer{margin-top:14px;text-align:center;color:#94a3b8;font-size:12px}

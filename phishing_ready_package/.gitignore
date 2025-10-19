@@ -1,0 +1,20 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+
+# Node
+node_modules/
+
+# VSCode
+.vscode/
+
+# Archives
+*.zip
+*.tar.gz
