@@ -1,3 +1,12 @@
+# Projeto Seguro de Phishing  SimulaÁ„o Educativa 
+
+[![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)  
+[![pages](https://img.shields.io/badge/GitHub%20Pages-online-brightgreen)](https://hackerdmv.github.io/phishing-safe-project/)  
+**Demo online:** https://hackerdmv.github.io/phishing-safe-project/
+
+**Autor:** DR VASQUES (@hackerdmv)  Aprendiz de Hacker …tico.  
+**Resumo:** Demonstra o fluxo de phishing em ambiente controlado e Ètico. A demo N√O armazena credenciais.
+
 # Phishing: Entendimento, Simula√ß√£o Segura e Mitiga√ß√£o
 
 **Autor:** DR VASQUES
